@@ -1,2 +1,2 @@
-# hello-world
-This is a test project before I load up a real one. I'm hoping to get an iOS app going here.
+# ng2-kb
+This is a test project to build the KB front end using ng2/ts.
